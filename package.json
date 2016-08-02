@@ -1,5 +1,5 @@
 {
-  "name": "@leonardodino/remoto-sip.js",
+  "name": "@remoto-me/remoto-sip.js",
   "version": "0.0.1",
   "description": "adapter for sip.js. (bypass auto-constructor)",
   "main": "index.js",
