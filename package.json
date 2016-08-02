@@ -1,0 +1,15 @@
+{
+  "name": "@leonardodino/remoto-sip.js",
+  "version": "0.0.1",
+  "description": "adapter for sip.js. (bypass auto-constructor)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "remoto-me/remoto-sip.js",
+  "author": "Leonardo Dino",
+  "license": "ISC",
+  "dependencies": {
+    "sip.js": "^0.7.5"
+  }
+}
