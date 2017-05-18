@@ -8,5 +8,4 @@ module.exports = {
   ENVIRONMENT: function(){
     return require('sip.js/src/environment');
   },
-  checkEnv: checkEnv,
 }
